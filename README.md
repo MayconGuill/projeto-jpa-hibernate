@@ -1,5 +1,4 @@
-📌 Descrição do Projeto (PT-BR)
-Este projeto marca minha primeira experiência prática com APIs e mapeamento objeto-relacional utilizando JPA / Hibernate. Durante o processo, aprendi a integrar uma aplicação Java com um banco de dados, aplicando conceitos fundamentais de persistência de dados.
+📌 Este projeto marca minha primeira experiência prática com APIs e mapeamento objeto-relacional utilizando JPA / Hibernate. Durante o processo, aprendi a integrar uma aplicação Java com um banco de dados, aplicando conceitos fundamentais de persistência de dados.
 
 🔧 Tecnologias Utilizadas:
 
