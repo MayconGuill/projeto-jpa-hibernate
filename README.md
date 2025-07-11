@@ -1,18 +1,26 @@
-## Getting Started
+📌 Descrição do Projeto (PT-BR)
+Este projeto marca minha primeira experiência prática com APIs e mapeamento objeto-relacional utilizando JPA / Hibernate. Durante o processo, aprendi a integrar uma aplicação Java com um banco de dados, aplicando conceitos fundamentais de persistência de dados.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+🔧 Tecnologias Utilizadas:
 
-## Folder Structure
+Java EE
 
-The workspace contains two folders by default, where:
+JPA (Java Persistence API)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Hibernate (implementação do JPA)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Maven (gerenciador de dependências)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+XAMPP (para criação e gerenciamento do banco de dados MySQL local)
 
-## Dependency Management
+📚 O que foi feito:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Criação de uma entidade Person, contendo id, name e email
+
+Instanciação de objetos Person na aplicação
+
+Mapeamento e persistência dos dados em um banco de dados MySQL
+
+Gerenciamento automatizado das dependências com Maven
+
+💡 Projeto introdutório voltado para aprendizado e experimentação com Java corporativo e persistência de dados usando ferramentas amplamente utilizadas no mercado.
